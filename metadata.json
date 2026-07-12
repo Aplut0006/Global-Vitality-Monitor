@@ -1,0 +1,6 @@
+{
+  "name": "World Population & Mortality Tracker",
+  "description": "A dynamic, real-time dashboard tracking global and country-specific population, birth, and death rates both total and per day.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
